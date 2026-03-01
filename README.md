@@ -39,4 +39,5 @@ Ensure that waste containers are correctly identified and disposed of by the app
 
 <h1>UML DIAGRAM</h1>
 
-<img src="">
+<img src="image.png">
+

@@ -36,3 +36,7 @@ The appropriate waste collector in the chain should handle disposal based on the
 4. Validation
 
 Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
+
+<h1>UML DIAGRAM</h1>
+
+<img src="">
